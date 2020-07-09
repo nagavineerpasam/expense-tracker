@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/nagavineerpasam/expense-tracker/static/css/main.708a4d9b.chunk.css",
-    "main.js": "/nagavineerpasam/expense-tracker/static/js/main.99d3c8c3.chunk.js",
-    "main.js.map": "/nagavineerpasam/expense-tracker/static/js/main.99d3c8c3.chunk.js.map",
-    "runtime-main.js": "/nagavineerpasam/expense-tracker/static/js/runtime-main.abbfae78.js",
-    "runtime-main.js.map": "/nagavineerpasam/expense-tracker/static/js/runtime-main.abbfae78.js.map",
-    "static/js/2.ee78d2c2.chunk.js": "/nagavineerpasam/expense-tracker/static/js/2.ee78d2c2.chunk.js",
-    "static/js/2.ee78d2c2.chunk.js.map": "/nagavineerpasam/expense-tracker/static/js/2.ee78d2c2.chunk.js.map",
-    "index.html": "/nagavineerpasam/expense-tracker/index.html",
-    "precache-manifest.1d915864d3ce1f58bc3b118966fbcabe.js": "/nagavineerpasam/expense-tracker/precache-manifest.1d915864d3ce1f58bc3b118966fbcabe.js",
-    "service-worker.js": "/nagavineerpasam/expense-tracker/service-worker.js",
-    "static/css/main.708a4d9b.chunk.css.map": "/nagavineerpasam/expense-tracker/static/css/main.708a4d9b.chunk.css.map",
-    "static/js/2.ee78d2c2.chunk.js.LICENSE.txt": "/nagavineerpasam/expense-tracker/static/js/2.ee78d2c2.chunk.js.LICENSE.txt"
+    "main.css": "/expense-tracker/static/css/main.708a4d9b.chunk.css",
+    "main.js": "/expense-tracker/static/js/main.99d3c8c3.chunk.js",
+    "main.js.map": "/expense-tracker/static/js/main.99d3c8c3.chunk.js.map",
+    "runtime-main.js": "/expense-tracker/static/js/runtime-main.a88e0ca2.js",
+    "runtime-main.js.map": "/expense-tracker/static/js/runtime-main.a88e0ca2.js.map",
+    "static/js/2.ee78d2c2.chunk.js": "/expense-tracker/static/js/2.ee78d2c2.chunk.js",
+    "static/js/2.ee78d2c2.chunk.js.map": "/expense-tracker/static/js/2.ee78d2c2.chunk.js.map",
+    "index.html": "/expense-tracker/index.html",
+    "precache-manifest.026a9e3f9e92daefcfcdb9c8d8219372.js": "/expense-tracker/precache-manifest.026a9e3f9e92daefcfcdb9c8d8219372.js",
+    "service-worker.js": "/expense-tracker/service-worker.js",
+    "static/css/main.708a4d9b.chunk.css.map": "/expense-tracker/static/css/main.708a4d9b.chunk.css.map",
+    "static/js/2.ee78d2c2.chunk.js.LICENSE.txt": "/expense-tracker/static/js/2.ee78d2c2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.abbfae78.js",
+    "static/js/runtime-main.a88e0ca2.js",
     "static/js/2.ee78d2c2.chunk.js",
     "static/css/main.708a4d9b.chunk.css",
     "static/js/main.99d3c8c3.chunk.js"
